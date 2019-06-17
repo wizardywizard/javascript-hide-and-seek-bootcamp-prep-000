@@ -7,7 +7,7 @@ function nestedTarget(){
   return lis2
 }
 function deepestChild(){
-   var lis3= document.querySelectorAll('div #grand-node')
+   var lis3= document.querySelectorAll('div #grand-node div')
    for (let i = 0; i < lis3.length; i++) {
   lis3[i].innerHTML = (i + 1).toString();}
    return lis3
