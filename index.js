@@ -4,6 +4,7 @@ function getFirstSelector(selector){
 }
 function nestedTarget(){
   const lis2=document.getElementsByClassName('Target')
+  return lis2
 }
 function increaseRankBy(n){
   
