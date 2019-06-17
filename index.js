@@ -15,6 +15,5 @@ function increaseRankBy(n){
   for (let i = 0; i < lis4.length; i++) {
   lis4[i].innerHTML = (i + 1).toString();
   }
-  return lis4
 }
  
