@@ -11,7 +11,7 @@ function deepestChild(){
    return lis3
 }
 function increaseRankBy(n){
-  var lis4= parseInt(n).document.querySelectorAll('ul.ranked-list li li li')
+  var lis4= document.querySelectorAll('ul.ranked-list li li li')
   return lis4
 }
  
