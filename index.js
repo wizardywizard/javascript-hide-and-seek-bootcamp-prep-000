@@ -3,7 +3,7 @@ function getFirstSelector(selector){
   return lis
 }
 function nestedTarget(){
-  
+  const lis2=
 }
 function increaseRankBy(n){
   
