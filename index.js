@@ -7,7 +7,7 @@ function nestedTarget(){
   return lis2
 }
 function deepestChild(){
-   var lis3= document.querySelector('grand-node div')[0]
+   var lis3= document.querySelector('grand-node div')
    return lis3
 }
 function increaseRankBy(n){
