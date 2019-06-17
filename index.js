@@ -6,9 +6,6 @@ function nestedTarget(){
   var lis2=document.querySelector('#nested .target')
   return lis2
 }
-function increaseRankBy(n){
-  var lis3= document.querySelector('grand-node .div')[4]
-}return lis3
 function deepestChild(){
   
 }
