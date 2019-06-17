@@ -1,5 +1,6 @@
 function getFirstSelector(selector){
-  return document.querySelector('div')
+  const lis= 
+  return 
 }
 function nestedTarget(){
   
