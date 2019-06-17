@@ -11,6 +11,6 @@ function deepestChild(){
    return lis3
 }
 function increaseRankBy(n){
-  var lis4=
+  var lis4=parseInt(n)
 }
  
