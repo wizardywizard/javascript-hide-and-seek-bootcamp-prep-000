@@ -8,8 +8,9 @@ function nestedTarget(){
 }
 function deepestChild(){
    var lis3= document.querySelector('grand-node .div')[4]
-   
-}
+   return lis3
 }
 function increaseRankBy(n){
+  
+}
  
