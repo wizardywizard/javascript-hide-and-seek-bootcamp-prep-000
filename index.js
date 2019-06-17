@@ -1,5 +1,5 @@
 function getFirstSelector(selector){
-  
+  const lis=
   return 
 }
 function nestedTarget(){
